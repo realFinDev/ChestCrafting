@@ -1,0 +1,7 @@
+# Game and BepInEx assemblies: copy them yourself (see README), never commit them.
+lib/
+bin/
+obj/
+out/
+release/
+*.zip
